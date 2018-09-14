@@ -33,3 +33,6 @@ git remote add origin https://github.com/mayHYT/My-study-note.git
   《你的灯亮着吗？》
   《探索需求》
   《麦肯锡教我的思考武器》
+git 设置url
+仓库->GitHub Pages ->master branch ->save
+  
